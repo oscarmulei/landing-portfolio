@@ -1,0 +1,41 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-size: 100px;
+}
+h2{
+  color: blue;
+  font-style: oblique;
+  text-align: center;
+}
+p{
+  font-family: monospace;
+}
+strong {
+  font-style: bold;
+}
+em {
+  font-style: italic;
+  font-color: red;
+}
+.Oscar {
+  color: red;
+  font-size: 12px
+}
+.aboutme {
+  font-size: 65px;
+  background-color: beige;
+  color: black;
+  margin-bottom: 0%
+  padding-bottom: 20
+}
+ body{
+   background-color: beige
+ }
+ img{
+   height: 600px;
+   width: 600px;
+   float: none;
+   align-content: center;;
+   margin-left: 100px;
+ }
