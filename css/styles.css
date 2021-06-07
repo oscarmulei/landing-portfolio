@@ -1,14 +1,15 @@
 h1 {
-  color: red;
+  color: white;
   text-align: center;
-  font-size: 100px;
+  font-size: 700px;
 }
 h2{
-  color: blue;
+  color: white;
   font-style: oblique;
   text-align: center;
 }
 p{
+  color: white;
   font-family: monospace;
 }
 strong {
@@ -23,19 +24,29 @@ em {
   font-size: 12px
 }
 .aboutme {
-  font-size: 65px;
-  background-color: beige;
-  color: black;
-  margin-bottom: 0%
-  padding-bottom: 20
+  font-size: x-large;
+  background-color:white;
+  color: white;
+  margin-bottom: 0%;
+  padding-bottom: 20%;
 }
  body{
-   background-color: beige
+   background-color: white;
  }
  img{
-   height: 600px;
-   width: 600px;
+   height: 300px;
+   width: 300px;
    float: none;
-   align-content: center;;
+   align-content: center;
+   justify-content: center;
    margin-left: 100px;
+ }
+ .hobbies{
+   font-size: x-large;
+   background-color: white;
+   padding-right: 20%;
+ }
+ p {
+   font-size: 16px;
+   font-style: normal;
  }
